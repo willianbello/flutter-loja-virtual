@@ -1,10 +1,11 @@
 # loja_virtual
 
-A new Flutter project.
+Projeto Flutter de Loja Virtual.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto tem o intuito de aprendizado e estudo do flutter. Foi criado uma loja virtual
+de roupas com o uso do Firebase e outras tecnologias.
 
 A few resources to get you started if this is your first Flutter project:
 
